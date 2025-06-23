@@ -1,0 +1,1 @@
+Dummy file, when program executes a new log file will be generate in this directory
